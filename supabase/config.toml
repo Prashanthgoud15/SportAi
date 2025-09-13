@@ -1,0 +1,7 @@
+project_id = "mhqlrcpyetzcqnoituxt"
+
+[functions.analyze-video]
+verify_jwt = true
+
+[functions.generate-training-plan]
+verify_jwt = true
